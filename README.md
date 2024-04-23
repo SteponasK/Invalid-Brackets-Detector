@@ -1,7 +1,8 @@
 ## Invalid Bracket Detector
-   * This application detects invalid brackets in a given file. The possible brackets are [] {} (). 
+* This application detects invalid brackets in a given file. The possible brackets are [] {} (). 
 ## Error
-    * Invalid bracket information is printed in this format:
+* Invalid bracket information is printed in this format:
+
     ```
     Invalid bracket <bracket_type> found at <file_path>:<line_number>:<column_number>.
     ```
@@ -17,12 +18,12 @@
 
 
 ## Getting Started:
-    * Clone the repo:
+* Clone the repo:
     ```
     https://github.com/SteponasK/Invalid-Brackets-Detector.git
     ```
-    * run main.cpp file.
-    * * DONT FORGET COMMAND LINE ARGUMENTS!:
+* run main.cpp file.
+* * DONT FORGET COMMAND LINE ARGUMENTS!:
     ```
      Usage: ./bracket_detector <filePath>
     ```
