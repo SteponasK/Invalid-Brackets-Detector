@@ -1,5 +1,11 @@
 ## Invalid Bracket Detector
-* This application detects invalid brackets in a given file. The possible brackets are [] {} (). 
+This application detects invalid brackets in a given file. The possible brackets are:
+
+| Bracket Type | Description |
+|--------------|-------------|
+| `[]`         | Square brackets |
+| `{}`         | Curly braces    |
+| `()`         | Round brackets | 
 ## 🚫 Error
 * Invalid bracket information is printed in this format:
 
