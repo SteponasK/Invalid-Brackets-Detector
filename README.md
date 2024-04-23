@@ -1,12 +1,12 @@
 ## Invalid Bracket Detector
 * This application detects invalid brackets in a given file. The possible brackets are [] {} (). 
-## Error
+## 🚫 Error
 * Invalid bracket information is printed in this format:
 
     ```
     Invalid bracket <bracket_type> found at <file_path>:<line_number>:<column_number>.
     ```
-## Additions:
+## ➕ Additions:
   * Does your application support files larger than your computer’s RAM?
   * * Current implementation reads given file line by line, so it is memory-efficient. So it should handle files larger than computers RAM. 
 * * If there are performance issues, and we need to optimise reading, we could read the file by chunks.
@@ -17,7 +17,7 @@
 ``` detector.detectInvalidBrackets();```
 
 
-## Getting Started:
+## ⬇️ Getting Started:
 * Clone the repo:
     ```
     https://github.com/SteponasK/Invalid-Brackets-Detector.git
@@ -29,5 +29,5 @@
     ```
 
 
-## Authors
+## 👑 Authors
 * SteponasK - initial work.
